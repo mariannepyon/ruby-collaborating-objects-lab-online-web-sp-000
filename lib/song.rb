@@ -21,6 +21,7 @@ class Song
 
   def self.all
       @@name
+      save
     end
 
 end
